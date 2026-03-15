@@ -11,8 +11,8 @@ from datetime import datetime
 import database as db
 import buttons as btn
 
-BOT_TOKEN = "8633402479:AAG97j-H9eunW78fbxGa5jbaGncEhC0g_dU"
-ADMIN_ID = 7945500144
+BOT_TOKEN = "8314834615:AAE5i8bEiJMY0pYmMh9ripyQcoxQVKPtIkQ"
+ADMIN_ID = 8550069571
 CARD_NUMBER = "9860 2301 0344 2953"
 
 # ============================================================
